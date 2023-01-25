@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cgvtUAhXSZlgfSFh1qFX5pI9seuaLhiZVB6brsYSdrE=",
+  "Hash": "3VZNm1PrZdOcV/FoJ3yeA0CS0DAbxHQtEK7DkPLb0rA=",
   "Source": "Expense Tracker",
   "BasePath": "_content/Expense Tracker",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\expense-tracker\\Expense Tracker\\wwwroot\\profile.jpg",
+      "SourceId": "Expense Tracker",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\expense-tracker\\Expense Tracker\\wwwroot\\",
+      "BasePath": "_content/Expense Tracker",
+      "RelativePath": "profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\profile.jpg"
     }
   ]
 }
