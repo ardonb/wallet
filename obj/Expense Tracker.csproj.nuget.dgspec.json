@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\expense-tracker\\Expense Tracker\\Expense Tracker.csproj": {}
+    "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\asdf2\\wallet\\Expense Tracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\expense-tracker\\Expense Tracker\\Expense Tracker.csproj": {
+    "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\asdf2\\wallet\\Expense Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\expense-tracker\\Expense Tracker\\Expense Tracker.csproj",
+        "projectUniqueName": "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\asdf2\\wallet\\Expense Tracker.csproj",
         "projectName": "Expense Tracker",
-        "projectPath": "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\expense-tracker\\Expense Tracker\\Expense Tracker.csproj",
+        "projectPath": "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\asdf2\\wallet\\Expense Tracker.csproj",
         "packagesPath": "C:\\Users\\ardon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\expense-tracker\\Expense Tracker\\obj\\",
+        "outputPath": "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\asdf2\\wallet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ardon\\AppData\\Roaming\\NuGet\\NuGet.Config",

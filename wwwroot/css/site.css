@@ -316,3 +316,7 @@ img.profile-pic {
     .widget.chart {
         padding: 5px;
     }
+
+.profile {
+    background-color: #12161d;
+}

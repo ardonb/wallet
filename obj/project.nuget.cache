@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eJlk/0FDDIPp9dfeE8YQ6SomkMwcF+wU5MaRqT9moIDu7NkGqPmF0J9JujMW2+r1DbAQHbE6v729yivzly90JA==",
+  "dgSpecHash": "BQOu5yt22CCQ8WVG6fpqtxtE0oRhrpJxQOrEUavIKVKT9o1WwszboyuV/zVf/6jwLHTmngOUYRjMEAdohzUq3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\expense-tracker\\Expense Tracker\\Expense Tracker.csproj",
+  "projectFilePath": "C:\\Users\\ardon\\OneDrive\\Desktop\\dotnet-projects\\asdf2\\wallet\\Expense Tracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ardon\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ardon\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -1,8 +1,8 @@
 ﻿@model IEnumerable<Expense_Tracker.Models.Transaction>
 
 @{
-    ViewData["PageTitle"] = "Transactions";
-    ViewData["PageActionText"] = "+ New Transaction";
+    ViewData["PageTitle"] = "Transaksione";
+    ViewData["PageActionText"] = "+ Transaksion i ri";
     ViewData["PageActionUrl"] = "/Transaction/AddOrEdit";
 }
 
@@ -12,11 +12,11 @@
                   allowSorting="true" allowPaging="true">
             <e-grid-pagesettings pageSize="10"></e-grid-pagesettings>
             <e-grid-columns>
-                <e-grid-column headerText="Category" field="CategoryTitleWithIcon"></e-grid-column>
-                <e-grid-column headerText="Date" field="Date" width="110px"
+                <e-grid-column headerText="Kategori" field="CategoryTitleWithIcon"></e-grid-column>
+                <e-grid-column headerText="Data" field="Date" width="110px"
                     type="date" format="MMM-dd-yy" textAlign="Left"></e-grid-column>
-                <e-grid-column headerText="Amount" field="FormattedAmount" textAlign="Right" width="110px"></e-grid-column>
-                <e-grid-column headerText="Actions" template="#actionColumnTemplate" width="100px"></e-grid-column>
+                <e-grid-column headerText="Shuma" field="FormattedAmount" textAlign="Right" width="110px"></e-grid-column>
+                <e-grid-column headerText="Veprime" template="#actionColumnTemplate" width="100px"></e-grid-column>
             </e-grid-columns>
         </ejs-grid>
     </div>
@@ -35,7 +35,7 @@
         <form action="/Transaction/Delete/${TransactionId}" method="post">
             @Html.AntiForgeryToken()
             <button type="submit" class="btn btn-sm btn-link no-a-decoration"
-            onclick="return confirm(&quot;Are sure to delete this record?&quot;)">
+            onclick="return confirm(&quot;A jeni i sigurt qe deshironi ta fshini kete te dhene?&quot;)">
                 <i class="fa-solid fa-trash-can fa-lg text-danger"></i>
             </button>
         </form>

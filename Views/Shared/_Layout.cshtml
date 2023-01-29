@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Expense Tracker</title>
+    <title>Wallet</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://cdn.syncfusion.com/ej2/20.4.38/material.css" />
     <link href="https://cdn.syncfusion.com/ej2/20.4.38/bootstrap5-dark.css" rel="stylesheet"/>
@@ -23,7 +23,7 @@
                 <div>
                     <i class="fa-solid fa-bell"></i>
                     <i class="fa-solid fa-message"></i>
-                    <img class="profile-pic" src="~/profile.jpg" />
+                    <a href="/Profile"><img class="profile-pic" src="~/profile.jpg" /></a>
                 </div>
             </div>
         </nav>
@@ -48,7 +48,7 @@
                                         </a>
                                     }
                                 </div>
-                                <ejs-breadcrumb id="breadcrumb" separatorTemplate="@Html.Raw("<span class='fa-solid fa-angle-right'></span>")"></ejs-breadcrumb>
+                                @*<ejs-breadcrumb id="breadcrumb" separatorTemplate="@Html.Raw("<span class='fa-solid fa-angle-right'></span>")"></ejs-breadcrumb>*@
                             </div>
                         </div>
                         } 
